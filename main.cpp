@@ -2,7 +2,7 @@
 
 using namespace std;
 
-// Ðàñøèðåííûé àëãîðèòì Åâêëèäà
+// Расширенный алгоритм Евклида
 long long gcdExtended(long long a, long long b, long long& x, long long& y)
 {
     if (a == 0)
